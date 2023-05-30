@@ -1,4 +1,4 @@
-## I have a great interest in information technology and I am always seeking new knowledge and experiences to advance my career in this extensive field. Currently, I am focused on studying and developing web technologies, acquiring skills in HTML, CSS, and JavaScript. I am also interested in expanding my knowledge in software development, especially in languages like Python. During my time as an apprentice at the TOTVS company, I had the opportunity to become acquainted with the Protheus ERP, which sparked a strong interest in enterprise management software and ERP systems. Additionally, I have skills in computer maintenance. I am a dedicated and persistent professional, always seeking new challenges and opportunities to grow in my career. I am open to collaborations and projects related to web development.
+## Iniciante em desenvolvimento Front-End. Aprendendo HTML, CSS e JavaScript para criar interfaces web. Interessado em explorar e aprimorar minhas habilidades nessa área.
 
 
  <div>
