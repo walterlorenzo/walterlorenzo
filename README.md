@@ -14,7 +14,9 @@
   <img align="center" alt="jupyter" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img aligs="center" alt="python" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
- 
+ <br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{walterlorenzo}/count.svg" /></p> 
+<br>
  <br>
  
   ### Contato
