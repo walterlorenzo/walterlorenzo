@@ -1,6 +1,4 @@
-## Iniciante em desenvolvimento Front-End. Aprendendo HTML, CSS e JavaScript para criar interfaces web. Interessado em explorar e aprimorar minhas habilidades nessa área.
-
-
+## Grande interesse em Python e Engenharia de Dados
  <div>
    <a href="https://github.com/walterlorenzo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
