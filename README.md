@@ -1,4 +1,4 @@
-## Grande interesse em Python e Engenharia de Dados
+## Tenho como foco estudos para o desenvolvimento back-end ou ciência de dados com python
  <div>
    <a href="https://github.com/walterlorenzo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
