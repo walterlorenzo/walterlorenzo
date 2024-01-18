@@ -1,4 +1,13 @@
-## Tenho como foco estudos para o desenvolvimento back-end ou ciência de dados com python
+# Bem-vindo ao meu perfil do GitHub! 👋
+
+Olá! Meu nome é Walter e sou apaixonado por programação, especialmente em Python. Atualmente, estou mergulhando em estudos relacionados a C# e Java, com foco em desenvolvimento backend, análise de dados, ciência de dados, inteligência artificial e automações em geral.
+
+## Sobre Mim
+
+- 💻 Atualmente, estou explorando Python, C# e Java.
+- 🌐 Tenho interesse em desenvolvimento backend.
+- 📊 Fascinado por análise de dados, ciência de dados e inteligência artificial.
+- 🤖 Entusiasta de automações para tornar processos mais eficientes.
  <div>
    <a href="https://github.com/walterlorenzo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walterlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
