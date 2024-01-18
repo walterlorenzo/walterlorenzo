@@ -10,7 +10,7 @@ Olá! Meu nome é Walter e sou apaixonado por programação, especialmente em Py
 - 🤖 Entusiasta de automações para tornar processos mais eficientes.
  <div>
    <a href="https://github.com/walterlorenzo">
-   (https://github-readme-stats.vercel.app/api?username=walterlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/walterlorenzo)
+   https://github-readme-stats.vercel.app/api?username=walterlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/walterlorenzo)
 
 </div>
 <div style="display: inline_block"><br>
