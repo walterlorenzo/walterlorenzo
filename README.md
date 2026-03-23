@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Meu nome é Walter e sou estudante de Ciência de Dados. Tenho interesse em programação, com foco em Python, desenvolvimento backend, análise de dados, ciência de dados, inteligência artificial e automações em geral.
+Olá! Meu nome é Walter e sou profissional de suporte a sistemas. Tenho interesse em programação, com foco em Python, desenvolvimento fullstack, análise de dados, ciência de dados, inteligência artificial e automações em geral.
 
 ## Sobre Mim
 
